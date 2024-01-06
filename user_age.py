@@ -1,3 +1,7 @@
+#If your age is greater than 30, you dont qualify.
+#If your age is exactly 30, you need additional conditions to qualify.
+#If your age is less than 30, you qualify. 
+
 user_age = int (input('what is your age?'))
 if user_age > 30:
     print('You are over 30 years old!')
