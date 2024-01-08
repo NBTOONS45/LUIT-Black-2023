@@ -10,3 +10,5 @@ print(Favorite_Foods[-1])
 
 #Slicing allows you to get mulitple results by putting a colon. Printed out Tacos and Ramen.  
 print(Favorite_Foods[0:2])
+
+#BA
